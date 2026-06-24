@@ -1,0 +1,13 @@
+{
+  "name": "aeroqr",
+  "version": "1.0.0",
+  "description": "AeroQR — Next-Gen QR Studio",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx -y http-server -p 3000",
+    "start": "npx -y http-server -p 3000"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
